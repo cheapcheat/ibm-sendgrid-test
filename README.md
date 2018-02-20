@@ -1,6 +1,6 @@
 XXX logo
 
-[![Travis Badge](https://travis-ci.org/thinkingserious/sendgrid-ibm-index-open-source-workshop.svg?branch=master)](https://travis-ci.org/thinkingserious/sendgrid-ibm-index-open-source-workshop)
+[![Travis Badge](https://travis-ci.org/cheapcheat/ibm-sendgrid-test.svg?branch=master)](https://travis-ci.org/cheapcheat/ibm-sendgrid-test)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)
 
 **move on**
